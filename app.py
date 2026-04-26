@@ -6,7 +6,7 @@ from utils import split_advice_sections, split_goal_sections
 
 # Page configuration
 st.set_page_config(
-    page_title="AI Financial Advisor",
+    page_title="AI Financial Advisor Useing Streamlit and GIMINI API KEY",
     page_icon="💰",
     layout="wide",
     initial_sidebar_state="expanded"
