@@ -2,7 +2,7 @@
 
 # 💰 AI Financial Advisor
 
-**Your Personal AI-Powered Financial Planning Assistant**
+**Your Personal AI-Powered Financial Planning Assistant Using Streamlit and Python**
 
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.55-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
